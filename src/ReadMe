@@ -1,0 +1,23 @@
+Dear Sir,
+
+Kindly find the complete code for the above task on following github link
+
+https://github.com/mujahidawan/django.git
+
+You can clone the link and open the project
+
+For admin panel use the following link:
+
+https://localhost:port/admin
+user name: admin
+pswd: 123456
+
+user name: admin2
+pswd: 123456
+
+for Messages use the following url
+http://localhost:port/chat
+
+Enter chat room name and start chatting.
+
+Feel free to ask any question
